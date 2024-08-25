@@ -17,7 +17,7 @@ I'm Maxim, student from MIREA (Russian technological university) in **Moscow, Ru
 	&emsp;&emsp;&emsp;&emsp;
 	&emsp;&emsp;&emsp;&emsp;
 	&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;
 	<img src="https://komarev.com/ghpvc/?username=mosgor&style=flat-square&color=blue"/>
 </div>
 
