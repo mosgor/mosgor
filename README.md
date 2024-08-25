@@ -1,6 +1,6 @@
 # Hello, glad to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm Maxim, student from MIREA (Russian Technological University) in **Moscow, Russia** <img src="https://www.svgrepo.com/show/401732/flag-for-russia.svg" width=13>.
+I'm Maxim, a student at MIREA, a Russian Technological University in **Moscow, Russia** <img src="https://www.svgrepo.com/show/401732/flag-for-russia.svg" width=13>.
 
 - 🌱 I’m currently learning Go, Docker
 - 🔭 I’m currently working on getting beter and better
