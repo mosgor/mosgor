@@ -3,7 +3,7 @@
 I'm Maxim, a student at MIREA, a Russian Technological University in **Moscow, Russia** <img src="https://www.svgrepo.com/show/401732/flag-for-russia.svg" width=13>.
 
 - 🌱 I’m currently learning Go, Docker
-- 🔭 I’m currently working on getting beter and better
+- 🔭 I’m currently working on getting better and better
 - 📫 Where you can find me: <a href="https://t.me/mos_gor"><img src="https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=blue&labelColor=e6ecf4"></a> <a href="https://vk.com/mos_gor"><img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=blue&labelColor=e6ecf4"></a> <a href="https://leetcode.com/u/mos_gor/"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&labelColor=e6ecf4"></a> <a href="https://www.instagram.com/mos_gor_/"><img src="https://img.shields.io/badge/Instagram-e6ecf4?logo=instagram&logoColor=white&labelColor=red"></a>
 - ⚡ Fun fact: I've been coding for about 6 years now.
 
