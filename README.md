@@ -2,7 +2,7 @@
 
 I'm Maxim, a student at MIREA, a Russian Technological University in **Moscow, Russia** <img src="https://www.svgrepo.com/show/401732/flag-for-russia.svg" width=13>.
 
-- 🌱 I’m currently learning Go, Docker
+- 🌱 I’m currently learning Docker, Kubernetes.
 - 🔭 I’m currently working on getting better and better
 - 📫 Where you can find me: <a href="https://t.me/mos_gor"><img src="https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=blue&labelColor=e6ecf4"></a> <a href="https://vk.com/mos_gor"><img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=blue&labelColor=e6ecf4"></a> <a href="https://leetcode.com/u/mos_gor/"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&labelColor=e6ecf4"></a> <a href="https://www.instagram.com/mos_gor_/"><img src="https://img.shields.io/badge/Instagram-e6ecf4?logo=instagram&logoColor=white&labelColor=red"></a>
 - ⚡ Fun fact: I've been coding for about 6 years now.
@@ -34,32 +34,38 @@ I'm Maxim, a student at MIREA, a Russian Technological University in **Moscow, R
 	    <br>Python
     </td>
     <td align="center" width="96">
-	    <img src="https://www.svgrepo.com/show/452183/cpp.svg" width="48" height="48" alt="Jsonnet" />
+	    <img src="https://www.svgrepo.com/show/452183/cpp.svg" width="48" height="48" alt="C++" />
 	    <br>C++
     </td>
     <td align="center" width="96">
-	    <img src="https://www.svgrepo.com/show/452234/java.svg" width="48" height="48" alt="TypeScript" />
+	    <img src="https://www.svgrepo.com/show/452234/java.svg" width="48" height="48" alt="Java" />
 	    <br>Java
     </td>
     <td align="center" width="96">
-	    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" width="48" height="48" alt="Kubernetes" />
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" width="48" height="48" alt="AndroidSDK" />
 	    <br>Android
     </td>
     <td align="center"  width="96">
-	    <img src="https://www.svgrepo.com/show/452054/linux.svg" width="48" height="48" alt="Debian" />
+	    <img src="https://www.svgrepo.com/show/452054/linux.svg" width="48" height="48" alt="Linux" />
 	    <br>Linux
     </td>
+    <td align="center" width="96">
+	    <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+	    <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+	    <img src="https://www.svgrepo.com/show/452210/git.svg" width="48" height="48" alt="Git" />
+	    <br>Git
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96"> 
 	    <img src="https://www.svgrepo.com/show/452192/docker.svg" width="48" height="48" alt="Docker" />
 	    <br>Docker
     </td>
     <td align="center" width="96">
-	    <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="48" height="48" alt="Grafana" />
-	    <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-	    <img src="https://www.svgrepo.com/show/452210/git.svg" width="48" height="48" alt="Grafana" />
-	    <br>Git
+	    <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" width="48" height="48" alt="Kubernetes"/>
+	    <br>Kubernetes
     </td>
   </tr>
 </table>
