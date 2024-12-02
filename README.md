@@ -64,8 +64,12 @@ I'm Maxim, a student at MIREA, a Russian Technological University in **Moscow, R
 	    <br>Docker
     </td>
     <td align="center" width="96">
-	    <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" width="48" height="48" alt="Kubernetes"/>
-	    <br>Kubernetes
+    	   <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="48" height="48" alt="HTML"/>
+    	   <br>HTML
+    </td>
+    <td align="center" width="96">
+    	   <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="48" height="48" alt="CSS"/>
+    	   <br>CSS
     </td>
   </tr>
 </table>
